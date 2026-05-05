@@ -1,0 +1,9 @@
+{
+  "java.configuration.updateBuildConfiguration": "automatic",
+  "java.compile.nullAnalysis.mode": "automatic",
+  "maven.executable.preferMavenWrapper": true,
+  "files.exclude": {
+    "**/target": true,
+    "**/node_modules": true
+  }
+}
